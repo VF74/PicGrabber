@@ -18,7 +18,8 @@ import java.util.regex.Pattern;
 
 /**
  * 
- * @author moonr
+ * @author Rob Moon
+ * Downloads pics from a designated URL
  *
  */
 public class Grabber 
